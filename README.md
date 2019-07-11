@@ -33,8 +33,8 @@ Data is a set of collected or recorded facts of particular subject.
 Data in general terms refer to facts and statistics collected together for reference or analysis.
 
 Types of Data:
-#### 1. Qualitative 
-#### 2. Quanititative
+#### 1. Qualitative Data
+#### 2. Quantitative Data 
 
 #### 1. Qualitative Data:
 “Data Associated with the quality in different categories”. Data is measurements, each fall into one of several categories. (Hair Color, ethnic groups and other attributes of the population)
