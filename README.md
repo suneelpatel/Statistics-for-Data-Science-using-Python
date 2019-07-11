@@ -201,7 +201,7 @@ Example: A student’s grade point average (GPA), provides a good understanding 
 ### Type of Descriptive Statstics:
 Descriptive statistics are broken down into two categories. **Measures of Central Tendency** and **Measures of Spread (variability or dispersion)**.
 
-#### (1) Measure of Centre(Central Tendency):
+### (1) Measure of Centre(Central Tendency):
 The data values for most numerical variables tend to group around a specific value
 
 Measure of centre help us to describe what extent this pattern holds for a specific numerical variable
@@ -225,7 +225,21 @@ The median is that value of the given number of observations, which divides it i
 #### Mode: “The highest or maximum number of frequency”
 The mode is the most common observation of a data set, or the value in the data set that occurs most frequently.
 
-#### (2) Measure of Spread (Variability / Dispersion) 
+#### Comparison between median and mean:
+Median:
+•	Ignore the extreme value
+•	Tell the point from where 50% data is lesser and 50% is more
+
+Mean:
+•	All the data are given equal importance
+
+#### Relationship among all
+Mean – Mode = 3 (Mean - Median)
+
+Mode = 3Median – 2Mean 
+
+
+### (2) Measure of Spread (Variability / Dispersion) 
 ##### (a) Range 
 ##### (b) Percentiles/Quartiles
 ##### (c) Inter-Quartile Range (IQR) 
@@ -233,6 +247,14 @@ The mode is the most common observation of a data set, or the value in the data 
 ##### (e) Standard Deviation
 ##### (f) Skewness
 ##### (g) Kurtosis
+
+#### (a) Range: 
+#### (b) Percentiles/Quartiles
+#### (c) Inter-Quartile Range (IQR) 
+#### (d) Variance
+#### (e) Standard Deviation
+#### (f) Skewness
+#### (g) Kurtosis
 
 # 6. Information Gain and Entropy
 
