@@ -296,6 +296,14 @@ In probability theory and statistics, kurtosis is a measure of the "tailedness" 
 
 # 6. Information Gain and Entropy
 
+### Information Gain:
+* Information is a measure of facts
+* Information gain is the ratio of factual information, to uncertain information
+* Is signifies a reduction is entropy or uncertain
+
+### Entropy:
+
+
 # 7. Probability and it's Uses
 
 # 8. Baye's Theorem
