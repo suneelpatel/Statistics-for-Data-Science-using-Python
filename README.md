@@ -188,8 +188,29 @@ Here the samples are selected based on the availability. This method is used whe
 Researchers prefer this during the initial stages of survey research, as it’s quick and easy to deliver results.
 
 
-# 5. Descriptive Statistics
+# 5. Descriptive Statistics: 
+Collecting, Summarizing or Describing and Processing data to transform data into information
 
+Descriptive statistics are used to describe the basic features of the data in a study.
+* Descriptive statistics is a data analysis strategy.
+* It deals with the representation of numerical facts, or data, in either table or graphic form, and with the methodology of analysis the data.
+
+Example: A student’s grade point average (GPA), provides a good understanding in analysing his overall performance.
+
+
+### Type of Descriptive Statstics:
+Descriptive statistics are broken down into two categories. Measures of central tendency and measures of spread (variability or dispersion).
+
+#### (1) Measure of Centre(Central Tendency)          
+##### (a) Mean  
+##### (b) Median  
+##### (c) Mode
+
+#### (2) Measure of Spread (Variability / Dispersion) 
+##### (a) Range 
+##### (b) Inter-Quartile Range 
+##### (c) Variance 
+##### (d) Standard Deviation 
 
 # 6. Information Gain and Entropy
 
