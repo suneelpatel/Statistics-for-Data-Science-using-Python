@@ -1,7 +1,9 @@
 # Statistics-for-Data-Science-using-Python
 Using Python, learn statistical and probabilistic approaches to understand and gain insights from data. Learning statistical concepts are very important to Data science domain and its application using Python. Learn about Numpy, Pandas Data Frame.
+
 ### Statistics: 
 Science of Average and their Estimate
+
 ### Data Science: 
 Data Science is primarily used to make decisions and predictions.
 
@@ -24,6 +26,23 @@ Enable the business to make intelligent, fact-based decision.
 12. Data Clustering
 13. Regression Modelling
 
+
+### What is statistics?
+Statistics Definition: (Science of Average and their Estimate)
+Statistics is the science of collecting, organizing, presenting, analyzing and interpreting data for specific purpose to help in making more effective decision.
+
+#### Why study statistics:
+To make more effective decision for the betterment of individual, society, business, nature and so on
+
+#### Statistical Analysis:
+
+Statistical analysis is implemented to manipulate, summarize, and investigate data, so that useful decision making information results are obtained.
+
+Two type of statistics:
+
+a)	Descriptive Statistics (used to describe the basic features of the data)
+
+b)	Inferential statistics (aims at learning characteristics of the population from a sample)
 
 
 # 1. Data and its Types
@@ -168,7 +187,9 @@ Here the samples are selected based on the availability. This method is used whe
 ##### For example: 
 Researchers prefer this during the initial stages of survey research, as it’s quick and easy to deliver results.
 
+
 # 5. Descriptive Statistics
+
 
 # 6. Information Gain and Entropy
 
