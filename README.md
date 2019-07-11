@@ -56,6 +56,27 @@ Types of Data:
 
 
 # 2. Variable and it's Types
+#### What is variable?
+A variable in algebra represents an unknown value or a value that varies.
+
+#### Types of Variables:
+##### 1. Categorical Variable:
+Variable that can be put into categories. For example, male and female are two categories in a Gender.
+
+##### 2. Control Variable:
+A factor in an experiment which must be held constant
+
+##### 3. Confounding Variable:
+Extra variables that have a hidden effects on your experimental results
+
+##### 4. Dependent Variable (Output Variable):
+The outcome of an experiment
+
+##### 5. Independent Variable (Input Variable):
+A variable that is not affected by anything
+
+
+
 
 # 3. Sample and Population
 
