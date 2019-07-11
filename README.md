@@ -348,7 +348,8 @@ A measure of uncertainty of various phenomenon, numerically
 
 * Probability is measure of how likely something will occur
 * It is the ratio of desired outcomes to total outcomes: 
-# Desired Outcomes/ #Total Outcomes
+
+                    Desired Outcomes/ #Total Outcomes
 
 ##### In mathematical terms :
 P (E) = No. of favourable outcome / Total no. of outcomes
