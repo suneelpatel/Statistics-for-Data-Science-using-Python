@@ -212,6 +212,18 @@ Three commonly-used measures of centre:
 ##### (b) Median  
 ##### (c) Mode
 
+#### Mean: “An Average”
+The mean (or average) of a number of observations is the sum of the values of all the observations divided by the total number of observations. It is denoted by the symbol X, read as ‘X bar’.
+
+#### Median: “A middle Value”
+The median is that value of the given number of observations, which divides it into exactly two parts. So, when the data is arranged in ascending (or descending) order the median of ungrouped data is calculated as follows:
+
+(i) When the number of observations (n) is odd, the median is the value of the {(n+1)/2}th observation. For example, if n = 13, the value of the {(13+1)/2}th, i.e., the 7th observation will be the median.
+
+(ii) When the number of observations (n) is even, the median is the mean of the {n/2}th and the {(n+1)/2}th observations.
+
+#### Mode: “The highest or maximum number of frequency”
+The mode is the most common observation of a data set, or the value in the data set that occurs most frequently.
 
 #### (2) Measure of Spread (Variability / Dispersion) 
 ##### (a) Range 
