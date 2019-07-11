@@ -240,6 +240,10 @@ Mode = 3Median – 2Mean
 
 
 ### (2) Measure of Spread (Variability / Dispersion) 
+A measure of spread, sometimes also called a measure of dispersion or measure of variability is used to describe the variability in a sample or population.
+
+It is usually used in conjunction with measure of central tendency, such as the mean or median, to provide an overall description of a set of data.
+
 ##### (a) Range 
 ##### (b) Percentiles/Quartiles
 ##### (c) Inter-Quartile Range (IQR) 
@@ -249,12 +253,46 @@ Mode = 3Median – 2Mean
 ##### (g) Kurtosis
 
 #### (a) Range: 
+
+The range is simply the difference between the maximum and minimum values in a data set. 
+##### Range = max - min
+
+So in a data set of 2, 2, 3, 4, 5, 5, 6, 7, 8, 9, 11, 13, 15, 15, 17, 19, 20, the range is the difference between 2 and 20.
+18 = 20 - 2
+
+While it is useful in seeing how large the difference in observations is in a sample, it says nothing about the spread of the data.
+
 #### (b) Percentiles/Quartiles
+##### Percentiles divide a data set into 100 equal parts. A percentile is simply a measure that tells us what percent of the total frequency of a data set was at or below that measure.
+
+##### The Quartiles also divide the data into divisions of 25%, so:
+
+Quartile 1 (Q1) can be called the 25th percentile
+Quartile 2 (Q2) can be called the 50th percentile
+Quartile 3 (Q3) can be called the 75th percentile
+
 #### (c) Inter-Quartile Range (IQR) 
+The inter-quartile range (IQR) gives more information about how the observation values of a data set are dispersed. It shows the range of the middle 50% of observations.
+
 #### (d) Variance
+
+##### Deviation: The difference between each xi and the mean is called deviation about the mean
+
+##### Variance: is based on deviations and entails computing square of deviations
+
+##### Population Variance: Average of Standard Deviations
+
+##### Sample Variance: sum of square deviations divided by n-1
+
 #### (e) Standard Deviation
+
+The standard deviation indicates the average distance between an observation value, and the mean of a data set. In this way, it shows how well the mean represents the values in a data set. Like the mean, it is appropriate to use when the data set is not skewed or containing outliers.
+
 #### (f) Skewness
+In probability theory and statistics, skewness is a measure of the asymmetry of the probability distribution of a real-valued random variable about its mean. The skewness value can be positive or negative, or undefined.
+
 #### (g) Kurtosis
+In probability theory and statistics, kurtosis is a measure of the "tailedness" of the probability distribution of a real-valued random variable.
 
 # 6. Information Gain and Entropy
 
