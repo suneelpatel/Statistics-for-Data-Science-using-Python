@@ -168,8 +168,6 @@ Here the samples are selected based on the availability. This method is used whe
 ##### For example: 
 Researchers prefer this during the initial stages of survey research, as it’s quick and easy to deliver results.
 
-(Ref: https://towardsdatascience.com/sampling-techniques-a4e34111d808)
-
 # 5. Descriptive Statistics
 
 # 6. Information Gain and Entropy
