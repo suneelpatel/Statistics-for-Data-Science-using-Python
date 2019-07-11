@@ -302,6 +302,9 @@ In probability theory and statistics, kurtosis is a measure of the "tailedness" 
 * Is signifies a reduction is entropy or uncertain
 
 ### Entropy:
+#### What is Entropy? 
+In the most layman terms, Entropy is nothing but the measure of disorder or uncertainty (You can think of it as a measure of purity as well) the goal of machine learning models and Data Scientists in general is to reduce uncertainty.
+
 
 
 # 7. Probability and it's Uses
@@ -322,6 +325,7 @@ P (E) + P (E’) = 1
 
 
 # 8. Baye's Theorem
+
 
 # 9. Statistical Inference
 
