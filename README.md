@@ -305,6 +305,19 @@ In probability theory and statistics, kurtosis is a measure of the "tailedness" 
 #### What is Entropy? 
 In the most layman terms, Entropy is nothing but the measure of disorder or uncertainty (You can think of it as a measure of purity as well) the goal of machine learning models and Data Scientists in general is to reduce uncertainty.
 
+##### Confusion Matrix:
+A confusion matrix is a table that is often used to describe the performance of a classification model (or “classifier”) on set of test data for which the true value are known:
+* Confusion matrix represents a tabular presentation of Actual Vs Predict Value
+* You can calculate the accuracy of your model with:
+
+          (True Positive + True Negative) / (True Positive + True Negative + False Positive + False Negative)
+
+#### Example: 
+* There are two possible predicted classes: “yes” and “no”
+* The classifier made a total of 165 predictions
+* Out of those 165 cases, the classifier predicted “yes” 110 times, and “no” 55 times
+* In reality, 105 patients in the sample have the disease, and 60 patient do not
+
 
 
 # 7. Probability and it's Uses
