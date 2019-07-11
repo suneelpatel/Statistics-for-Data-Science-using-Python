@@ -306,6 +306,21 @@ In probability theory and statistics, kurtosis is a measure of the "tailedness" 
 
 # 7. Probability and it's Uses
 
+### What is probability?	
+
+A measure of uncertainty of various phenomenon, numerically
+
+* Probability is measure of how likely something will occur
+* It is the ratio of desired outcomes to total outcomes: 
+# Desired Outcomes/ #Total Outcomes
+
+##### In mathematical terms :
+P (E) = No. of favourable outcome / Total no. of outcomes
+
+##### The probability of all outcomes always sum of 1
+P (E) + P (E’) = 1
+
+
 # 8. Baye's Theorem
 
 # 9. Statistical Inference
