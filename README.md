@@ -358,11 +358,54 @@ P (E) = No. of favourable outcome / Total no. of outcomes
 P (E) + P (E’) = 1
 
 ### Terminologies of Probability
-##### (1) Random Experiment 
-##### (2) Sample Space 
-##### (3) Event 
-##### (4) Union of Event  
-##### (5) Intersection of Event
+##### (1) Random Experiment:
+An operation which can produce some well-defined outcomes is called an experiment. Each outcome is called an event
+
+For example; throwing a die or tossing a coin etc.
+In an experiment where all possible outcomes are known and in advance if the exact outcome cannot be predicted, is called a random experiment. 
+
+##### (3) Trial:
+By a trial, we mean performing a random experiment.
+
+##### (4) Sample Space 
+The sample space for a probability experiment is the set of all possible outcomes. This is usually written with set notation (curly brackets). For example, going back to a regular 6-sided die the sample space would be:
+
+S={1,2,3,4,5,6}
+
+##### (5) Event 
+Out of the total results obtained from a certain experiment, the set of those results which are in favor of a definite result is called the event and it is denoted as E.
+
+#### (6) Equally Likely Events:
+
+When there is no reason to expect the happening of one event in preference to the other, then the events are known equally likely events.
+
+For example; when an unbiased coin is tossed the chances of getting a head or a tail are the same.
+
+#### (7) Exhaustive Events:
+
+All the possible outcomes of the experiments are known as exhaustive events.
+
+For example; in throwing a die there are 6 exhaustive events in a trial.
+
+#### (8) Favorable Events:
+
+The outcomes which make necessary the happening of an event in a trial are called favorable events.
+
+For example; if two dice are thrown, the number of favorable events of getting a sum 5 is four,
+
+i.e., (1, 4), (2, 3), (3, 2) and (4, 1).
+
+#### (9) Mutually Exclusive Events: 
+If there be no element common between two or more events, i.e., between two or more subsets of the sample space, then these events are called mutually exclusive events.
+
+If E1 and E2 are two mutually exclusive events, then E1 ∩ E2 = ∅
+
+#### (10) Complementary Event: 
+An event which consists in the negation of another event is called complementary event of the er event. In case of throwing a die, ‘even face’ and ‘odd face’ are complementary to each other. “Multiple of 3” ant “Not multiple of 3” are complementary events of each other.
+
+##### (11) Union of Event  
+
+##### (12) Intersection of Event
 
 # 8. Baye's Theorem
 
