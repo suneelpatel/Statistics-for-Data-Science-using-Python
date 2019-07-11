@@ -90,6 +90,86 @@ A subset of population is called "Sample". A well choosen sample will contain mo
 
 # 4. Sampling Techniques
 
+#### 1. Probability Sampling : 
+This Sampling technique uses randomization to make sure that every element of the population gets an equal chance to be part of the selected sample. It’s alternatively known as random sampling.
+
+##### (a) Random Sampling : 
+Every element has an equal chance of getting selected to be the part sample. It is used when we don’t have any kind of prior information about the target population.
+
+For example: Random selection of 20 students from class of 50 student. Each student has equal chance of getting selected. Here probability of selection is 1/50.
+
+##### (b) Systematic Sampling 
+
+Here the selection of elements is systematic and not random except the first element. Elements of a sample are chosen at regular intervals of population. All the elements are put together in a sequence first where each element has the equal chance of being selected.
+
+For a sample of size n, we divide our population of size N into subgroups of k elements.
+
+We select our first element randomly from the first subgroup of k elements.
+
+To select other elements of sample, perform following:
+
+We know number of elements in each group is k i.e N/n
+
+So if our first element is n1 then
+
+Second element is n1+k i.e n2
+
+Third element n2+k i.e n3 and so on..
+
+Taking an example of N=20, n=5
+
+No of elements in each of the subgroups is N/n i.e 20/5 =4= k
+
+Now, randomly select first element from the first subgroup.
+
+If we select n1= 3
+
+n2 = n1+k = 3+4 = 7
+
+n3 = n2+k = 7+4 = 11
+
+
+##### (c) Stratified Sampling 
+This technique divides the elements of the population into small subgroups (strata) based on the similarity in such a way that the elements within the group are homogeneous and heterogeneous among the other subgroups formed. And then the elements are randomly selected from each of these strata. We need to have prior information about the population to create subgroups.
+
+#### 2. Non-Probability Sampling : 
+It does not rely on randomization. This technique is more reliant on the researcher’s ability to select elements for a sample. Outcome of sampling might be biased and makes difficult for all the elements of population to be part of the sample equally. This type of sampling is also known as non-random sampling.
+
+##### (a) Snowball Sampling:
+This technique is used in the situations where the population is completely unknown and rare.
+Therefore we will take the help from the first element which we select for the population and ask him to recommend other elements who will fit the description of the sample needed.
+
+So this referral technique goes on, increasing the size of population like a snowball.
+
+##### For example: 
+It’s used in situations of highly sensitive topics like HIV Aids where people will not openly discuss and participate in surveys to share information about HIV Aids.
+
+Not all the victims will respond to the questions asked so researchers can contact people they know or volunteers to get in touch with the victims and collect information
+
+Helps in situations where we do not have the access to sufficient people with the characteristics we are seeking. It starts with finding people to study.
+
+##### (b) Quota Sampling: 
+This type of sampling depends of some pre-set standard. It selects the representative sample from the population. Proportion of characteristics/ trait in sample should be same as population. Elements are selected until exact proportions of certain types of data is obtained or sufficient data in different categories is collected.
+
+##### For example: 
+If our population has 45% females and 55% males then our sample should reflect the same percentage of males and females.
+
+##### (c) Judgement sampling 
+This is based on the intention or the purpose of study. Only those elements will be selected from the population which suits the best for the purpose of our study.
+
+##### For Example: 
+If we want to understand the thought process of the people who are interested in pursuing master’s degree then the selection criteria would be “Are you interested for Masters in..?”
+
+All the people who respond with a “No” will be excluded from our sample.
+
+##### (d) Convenience Sampling
+Here the samples are selected based on the availability. This method is used when the availability of sample is rare and also costly. So based on the convenience samples are selected.
+
+##### For example: 
+Researchers prefer this during the initial stages of survey research, as it’s quick and easy to deliver results.
+
+(Ref: https://towardsdatascience.com/sampling-techniques-a4e34111d808)
+
 # 5. Descriptive Statistics
 
 # 6. Information Gain and Entropy
