@@ -356,6 +356,12 @@ P (E) = No. of favourable outcome / Total no. of outcomes
 ##### The probability of all outcomes always sum of 1
 P (E) + P (E’) = 1
 
+### Terminologies of Probability
+##### (1) Random Experiment 
+##### (2) Sample Space 
+##### (3) Event 
+##### (4) Union of Event  
+##### (5) Intersection of Event
 
 # 8. Baye's Theorem
 
