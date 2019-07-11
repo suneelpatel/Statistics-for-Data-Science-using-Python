@@ -76,9 +76,17 @@ The outcome of an experiment
 A variable that is not affected by anything
 
 
-
-
 # 3. Sample and Population
+#### Population:
+A Population is the set of all possible states of a random variable. The size of the population may be either infinite or finite.
+
+In other words, A collection or set of individual or objects or events whose properties are to be anlysed called population.
+
+#### Sample:
+A Sample is a subset of the population; its size is always finite.
+
+A subset of population is called "Sample". A well choosen sample will contain most of the information about a particular population parameter.
+
 
 # 4. Sampling Techniques
 
