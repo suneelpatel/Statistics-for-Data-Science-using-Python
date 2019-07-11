@@ -199,18 +199,28 @@ Example: A student’s grade point average (GPA), provides a good understanding 
 
 
 ### Type of Descriptive Statstics:
-Descriptive statistics are broken down into two categories. Measures of central tendency and measures of spread (variability or dispersion).
+Descriptive statistics are broken down into two categories. **Measures of Central Tendency** and **Measures of Spread (variability or dispersion)**.
 
-#### (1) Measure of Centre(Central Tendency)          
-##### (a) Mean  
+#### (1) Measure of Centre(Central Tendency):
+The data values for most numerical variables tend to group around a specific value
+
+Measure of centre help us to describe what extent this pattern holds for a specific numerical variable
+
+Three commonly-used measures of centre:
+
+##### (a) Mean (also known as the arithmetic mean or average)
 ##### (b) Median  
 ##### (c) Mode
 
+
 #### (2) Measure of Spread (Variability / Dispersion) 
 ##### (a) Range 
-##### (b) Inter-Quartile Range 
-##### (c) Variance 
-##### (d) Standard Deviation 
+##### (b) Percentiles/Quartiles
+##### (c) Inter-Quartile Range (IQR) 
+##### (d) Variance
+##### (e) Standard Deviation
+##### (f) Skewness
+##### (g) Kurtosis
 
 # 6. Information Gain and Entropy
 
