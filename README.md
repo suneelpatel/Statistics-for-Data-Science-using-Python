@@ -320,6 +320,20 @@ A confusion matrix is a table that is often used to describe the performance of 
 
 
 
+### Sensitivity:
+* Sensitivity (also called the true positive rate, the recall, or probability of detection in some fields) measures the proportion of positives that are correctly identified
+* In probability notation:
+                              
+                              Sensitivity = TRUE POSITIVE / (TRUE POSITIVE + FALSE NEGATIVE)
+
+
+### Specificity:
+* Specificity (also called the true negative rate) measures the proportion of negatives that are correctly identified as such (e.g. the percentage of healthy people who are correctly identified as not having the condition)
+* In probability notation:
+
+                              Specificity = TRUE NEGATIVE / (TRUE NEGATIVE + FALSE POSITIVE)
+                              
+
 # 7. Probability and it's Uses
 
 ### What is probability?	
