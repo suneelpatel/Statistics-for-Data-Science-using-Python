@@ -25,3 +25,29 @@ Enable the business to make intelligent, fact-based decision.
 13. Regression Modelling
 
 
+
+# 1. Data and its Types
+
+# 2. Variable and it's Types
+
+# 3. Sample and Population
+
+# 4. Sampling Techniques
+
+# 5. Descriptive Statistics
+
+# 6. Information Gain and Entropy
+
+# 7. Probability and it's Uses
+
+# 8. Baye's Theorem
+
+# 9. Statistical Inference
+
+# 10. Hypothesis Testing
+
+# 11. Testing the Data
+
+# 12. Data Clustering
+
+# 13. Regression Modelling
