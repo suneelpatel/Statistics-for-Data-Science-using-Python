@@ -487,9 +487,10 @@ In general, a **sample size of 30 is considered sufficient when the population i
 
           µ X̄ = Mean of the sample means
           µ= Population mean
+          
+          
           And, the standard deviation of the sample mean is denoted as:
 
-                    
                     σ X̄ = σ/sqrt(n)
 
           where,
