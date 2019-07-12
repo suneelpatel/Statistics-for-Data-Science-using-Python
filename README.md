@@ -588,6 +588,36 @@ So the formula kind of tells us "forwards" P(Fire|Smoke) when we know "backwards
 
 
 # 10. Statistical Inference
+### What is statistical inference?
+Statistical inference is the process of drawing conclusions about populations or scientific truths from data.
+
+The four-step process that encompasses statistics: Data Production, Exploratory Data Analysis, Probability and Inference.
+
+A **statistical inference** aims at learning characteristics of the population from a sample; the population characteristics are parameters and sample characteristics are statistics.
+
+A **statistical model** is a representation of a complex phenomena that generated the data.
+* It has mathematical formulations that describe relationships between random variables and parameters.
+* It makes assumptions about the random variables, and sometimes parameters.
+* A general form: data = model + residuals
+* Model should explain most of the variation in the data
+* Residuals are a representation of a lack-of-fit, that is of the portion of the data unexplained by the model.
+
+**Estimation** represents ways or a process of learning and determining the population parameter based on the model fitted to the data.
+
+**Point Estimation** and **Interval Estimation**, and **Hypothesis Testing** are three main ways of learning about the population parameter from the sample statistic.
+
+An **estimator** is particular example of a statistic, which becomes an **estimate** when the formula is replaced with actual observed sample values.
+
+**Point Estimation** = a single value that estimates the parameter. Point estimates are single values calculated from the sample
+
+**Confidence Intervals** = gives a range of values for the parameter Interval estimates are intervals within which the parameter is expected to fall, with a certain degree of confidence.
+
+**Hypothesis Tests** = tests for a specific value(s) of the parameter.
+In order to perform these inferential tasks, i.e., make inference about the unknown population parameter from the sample statistic, we need to know the likely values of the sample statistic. What would happen if we do sampling many times?
+
+We need the sampling distribution of the statistic
+* It depends on the model assumptions about the population distribution, and/or on the sample size.
+* Standard error refers to the standard deviation of a sampling distribution.
 
 
 # 11. Hypothesis Testing
