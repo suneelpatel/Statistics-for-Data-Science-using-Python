@@ -490,9 +490,9 @@ P(Smoke|Fire) means how often we can see smoke when there is fire
 So the formula kind of tells us "forwards" P(Fire|Smoke) when we know "backwards" P(Smoke|Fire)
 
           Example: If dangerous fires are rare (1%) but smoke is fairly common (10%) due to barbecues, and 90% of dangerous fires make smoke then:
-          P(Fire|Smoke) =	 P(Fire) P(Smoke|Fire)P(Smoke) 
-                        =	 1% x 90%10% 
-                        =	9%
+          P(Fire|Smoke) = P(Fire) * P(Smoke|Fire) / P(Smoke) 
+                        = 1% x 90% / 10% 
+                        = 9%
           So the "Probability of dangerous Fire when there is Smoke" is 9%
 
 
