@@ -461,6 +461,41 @@ The probability of the intersection of two or more events. Visually it is the in
 The conditional probability is the probability that some event(s) occur given that we know other events have already occurred. If A and B are two events then the conditional probability of A occurring given that B has occurred is written as P(A|B). 
 **Example:** The probability that a card is a four given that we have drawn a red card is P(4|red) = 2/26 = 1/13. (There are 52 cards in the pack, 26 are red and 26 are black. Now because we’ve already picked a red card, we know that there are only 26 cards to choose from, hence why the first denominator is 26).
 
+##### Distribution:
+Before we jump on to the explanation of distributions, let’s see what kind of data can we encounter. The data can be discrete or continuous.
+
+**Discrete Data**, as the name suggests, can take only specified values. For example, when you roll a die, the possible outcomes are 1, 2, 3, 4, 5 or 6 and not 1.5 or 2.45.
+
+**Continuous Data** can take any value within a given range. The range may be finite or infinite. For example, A girl’s weight or height, the length of the road. The weight of a girl can be any value from 54 kgs, or 54.5 kgs, or 54.5436kgs.
+
+##### Types of Distributions
+**1.Bernoulli Distribution**
+**2. Uniform Distribution**
+**3. Binomial Distribution**
+**4. Normal Distribution**
+**5. Poisson Distribution**
+**6. Exponential Distribution**
+
+#### Normal Distribution
+Normal distribution represents the behavior of most of the situations in the universe (That is why it’s called a “normal” distribution). The large sum of (small) random variables often turns out to be normally distributed, contributing to its widespread application. Any distribution is known as Normal distribution if it has the following characteristics:
+
+* The mean, median and mode of the distribution coincide.
+* The curve of the distribution is bell-shaped and symmetrical about the line x=μ.
+* The total area under the curve is 1.
+* Exactly half of the values are to the left of the center and the other half to the right.
+* A normal distribution is highly different from Binomial Distribution. However, if the number of trials approaches infinity then the shapes will be quite similar.
+
+##### Some of the properties of a standard normal distribution are mentioned below:
+* The normal curve is symmetric about the mean and bell shaped.
+* Mean, mode and median is zero which is the centre of the curve.
+* Approximately 68% of the data will be between -1 and +1 (i.e. within 1 standard deviation from the mean), 95% between -2 and +2 (within 2 SD from the mean) and 99.7% between -3 and 3 (within 3 SD from the mean)
+
+##### There are a few commonly used terms which we need to understand:
+* **Population** : Space of all possible elements from a set of data
+* **Sample** : consists of observations drawn from population
+* **Parameter** : measurable characteristic of a population such as mean, SD
+* **Statistic**: measurable characteristic of a sample
+
 
 #### Central Limit Theorem (CLT)
 The central limit theorem (CLT) is simple. It just says that with a large sample size, sample means are normally distributed.
