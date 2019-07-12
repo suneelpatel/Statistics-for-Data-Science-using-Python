@@ -403,9 +403,45 @@ If E1 and E2 are two mutually exclusive events, then E1 ∩ E2 = ∅
 #### (10) Complementary Event: 
 An event which consists in the negation of another event is called complementary event of the er event. In case of throwing a die, ‘even face’ and ‘odd face’ are complementary to each other. “Multiple of 3” ant “Not multiple of 3” are complementary events of each other.
 
-##### (11) Union of Event  
+##### (11) Union of Event:
+Union of events is simply a union of two or more than two events. If A and B are two events then A U B is called union of A and B. suppose that two events are given A and B then. The union of two events A and B is the event which consists all the elements of A and B.
+
+##### Formula:
+Suppose A and B are two events associated with a random experiment. Then the union of A and B is represented by A ∪ B.
+
+The probability of union of two events is given by:
+
+P(A∪B) = P(A)+P(B) – P(A∩B)
+
+Here, P (A) is the probability of event A, P (B) is the probability of event B.
+
+Also, P(A∩B) is the probability of the intersection of events A and B. 
+
+
+When A and B are two independent or mutually exclusive events that is the occurrence of event A does not affect the occurrence of event B at all, in such a case, P(A∩B) = 0 and hence we have,
+
+P(A∪B) = P(A)+P(B)
+
+If we have more than two independent events say A, B & C, then in that case the union probability is given by:
+
+P(A∪B∪C) = P(A)+P(B)+P(C)
+
+If AB and C are not independent or mutually exclusive then the union probability is given by:
+
+P(A∪B∪C) = P(A)+P(B)+P(C) – P(A∩B)–P(B∩C)–P(A∩C) - P(A∩B∩C)
+
 
 ##### (12) Intersection of Event
+Intersection of events means that all the events are occurring together. Even if one event holds false all will be false. The intersection of events can only be true if and only if all the events holds true. 
+
+The probability that Events A and B both occur is the probability of the intersection of A and B. The probability of the intersection of Events A and B is denoted by P(A ∩ B). If Events A and B are mutually exclusive, P(A ∩ B) = 0.
+
+The rule of multiplication applies to the situation when we want to know the probability of the intersection of two events; that is, we want to know the probability that two events (Event A and Event B) both occur.
+
+Rule of Multiplication The probability that Events A and B both occur is equal to the probability that Event A occurs times the probability that Event B occurs, given that A has occurred.
+
+P(A ∩ B) = P(A) P(B|A)
+
 
 # 8. Baye's Theorem
 
