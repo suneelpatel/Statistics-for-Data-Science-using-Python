@@ -466,6 +466,21 @@ Bayes' theorem can be stated as follows:
  	 	and how likely A is on its own, written P(A)
  	 	and how likely B is on its own, written P(B)
 
+#### Bayes Theorem Rule:
+
+The rule has a very simple derivation that directly leads from the relationship between joint and conditional probabilities. First, note that P(A,B) = P(A|B)P(B) = P(B,A) = P(B|A)P(A). Next, we can set the two terms involving conditional probabilities equal to each other, so P(A|B)P(B) = P(B|A)P(A), and finally, divide both sides by P(B) to arrive at Bayes rule.
+
+In this formula, A is the event we want the probability of, and B is the new evidence that is related to A in some way.
+
+P(A|B) is called the **posterior**; this is what we are trying to estimate. In the above example, this would be the “probability of having cancer given that the person is a smoker”.
+
+P(B|A) is called the **likelihood**; this is the probability of observing the new evidence, given our initial hypothesis. In the above example, this would be the “probability of being a smoker given that the person has cancer”.
+
+P(A) is called the **prior**; this is the probability of our hypothesis without any additional prior information. In the above example, this would be the “probability of having cancer”.
+
+P(B) is called the marginal **likelihood**; this is the total probability of observing the evidence. In the above example, this would be the “probability of being a smoker”. In many applications of Bayes Rule, this is ignored, as it mainly serves as normalization.
+
+##### Example:
 Let us say P(Fire) means how often there is fire, and P(Smoke) means how often we see smoke, then:
 
 P(Fire|Smoke) means how often there is fire when we can see smoke 
