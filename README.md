@@ -497,6 +497,25 @@ So the formula kind of tells us "forwards" P(Fire|Smoke) when we know "backwards
 
 
 # 9. Probability Distribution:
+# 9. Probability Distribution:
+Probability is often associated with at least one event. This event can be anything. Basic examples of events include rolling a die or pulling a coloured ball out of a bag. In these examples the outcome of the event is random (you can’t be sure of the value that the die will show when you roll it), so the **variable that represents the outcome of these events is called a random variable (often abbreviated to RV)**.
+
+### The 3 types of probability
+
+#### Marginal Probability: 
+If A is an event, then the marginal probability is the probability of that event occurring, P(A). 
+##### Example: 
+Assuming that we have a pack of traditional playing cards, an example of a marginal probability would be the probability that a card drawn from a pack is red: P(red) = 0.5.
+
+#### Joint Probability: 
+The probability of the intersection of two or more events. Visually it is the intersection of the circles of two events on a Venn Diagram (see figure below). If A and B are two events then the joint probability of the two events is written as P(A ∩ B). 
+##### Example: 
+The probability that a card drawn from a pack is red and has the value 4 is P(red and 4) = 2/52 = 1/26. (There are 52 cards in a pack of traditional playing cards and the 2 red ones are the hearts and diamonds). We’ll go through this example in more detail later.
+
+#### Conditional Probability: 
+The conditional probability is the probability that some event(s) occur given that we know other events have already occurred. If A and B are two events then the conditional probability of A occurring given that B has occurred is written as P(A|B). 
+##### Example: 
+The probability that a card is a four given that we have drawn a red card is P(4|red) = 2/26 = 1/13. (There are 52 cards in the pack, 26 are red and 26 are black. Now because we’ve already picked a red card, we know that there are only 26 cards to choose from, hence why the first denominator is 26).
 
 
 # 10. Statistical Inference
