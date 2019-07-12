@@ -20,11 +20,12 @@ Enable the business to make intelligent, fact-based decision.
 6. Information Gain and Entropy
 7. Probability and it's Uses
 8. Baye's Theorem
-9. Statistical Inference
-10. Hypothesis Testing
-11. Testing the Data
-12. Data Clustering
-13. Regression Modelling
+9. Probability Distribution
+10. Statistical Inference
+11. Hypothesis Testing
+12. Testing the Data
+13. Data Clustering
+14. Regression Modelling
 
 
 ### What is statistics?
@@ -461,10 +462,10 @@ Bayes' theorem can be stated as follows:
                            
                     The formula is: P(A|B) = P(A) P(B|A)P(B) 
 
-          Which tells us:	 	how often A happens given that B happens, written P(A|B),
-          When we know:	 	how often B happens given that A happens, written P(B|A)
- 	 	and how likely A is on its own, written P(A)
- 	 	and how likely B is on its own, written P(B)
+          Which tells us:     how often A happens given that B happens, written P(A|B),
+          When we know:       how often B happens given that A happens, written P(B|A),
+ 	 	          and how likely A is on its own, written P(A),
+ 	 	          and how likely B is on its own, written P(B)
 
 #### Bayes Theorem Rule:
 
@@ -495,12 +496,16 @@ So the formula kind of tells us "forwards" P(Fire|Smoke) when we know "backwards
           So the "Probability of dangerous Fire when there is Smoke" is 9%
 
 
-# 9. Statistical Inference
+# 9. Probability Distribution:
 
-# 10. Hypothesis Testing
 
-# 11. Testing the Data
+# 10. Statistical Inference
 
-# 12. Data Clustering
 
-# 13. Regression Modelling
+# 11. Hypothesis Testing
+
+# 12. Testing the Data
+
+# 13. Data Clustering
+
+# 14. Regression Modelling
