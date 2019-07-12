@@ -443,7 +443,41 @@ Rule of Multiplication The probability that Events A and B both occur is equal t
 P(A ∩ B) = P(A) P(B|A)
 
 
-# 8. Baye's Theorem
+# 8. Baye's Theorem (aka, Bayes Rule)
+Before understanding Baye's Theorem first we learn about **Conditional Probability**:
+
+##### Conditional Probability : 
+The probability that event A occurs, given that event B has occurred, is called a conditional probability.
+
+The conditional probability of A, given B, is denoted by the symbol P(A|B).
+
+##### Baye's Theorem:
+* Bayes' theorem (also known as Bayes' rule) is a useful tool for calculating conditional probabilities. 
+
+* Bayes’ Theorem is a way of finding a probability when we know certain other probabilities.
+
+Bayes' theorem can be stated as follows:
+
+                           
+                    The formula is: P(A|B) = P(A) P(B|A)P(B) 
+
+          Which tells us:	 	how often A happens given that B happens, written P(A|B),
+          When we know:	 	how often B happens given that A happens, written P(B|A)
+ 	 	and how likely A is on its own, written P(A)
+ 	 	and how likely B is on its own, written P(B)
+
+Let us say P(Fire) means how often there is fire, and P(Smoke) means how often we see smoke, then:
+
+P(Fire|Smoke) means how often there is fire when we can see smoke 
+P(Smoke|Fire) means how often we can see smoke when there is fire
+
+So the formula kind of tells us "forwards" P(Fire|Smoke) when we know "backwards" P(Smoke|Fire)
+
+          Example: If dangerous fires are rare (1%) but smoke is fairly common (10%) due to barbecues, and 90% of dangerous fires make smoke then:
+          P(Fire|Smoke) =	 P(Fire) P(Smoke|Fire)P(Smoke) 
+                        =	 1% x 90%10% 
+                        =	9%
+          So the "Probability of dangerous Fire when there is Smoke" is 9%
 
 
 # 9. Statistical Inference
