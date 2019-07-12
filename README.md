@@ -462,6 +462,43 @@ The conditional probability is the probability that some event(s) occur given th
 **Example:** The probability that a card is a four given that we have drawn a red card is P(4|red) = 2/26 = 1/13. (There are 52 cards in the pack, 26 are red and 26 are black. Now because we’ve already picked a red card, we know that there are only 26 cards to choose from, hence why the first denominator is 26).
 
 
+#### Central Limit Theorem (CLT)
+The central limit theorem (CLT) is simple. It just says that with a large sample size, sample means are normally distributed.
+
+Well, the central limit theorem (CLT) is at the heart of hypothesis testing – a critical component of the data science lifecycle.
+
+#### Formally Defining the Central Limit Theorem:
+Given a dataset with unknown distribution (it could be uniform, binomial or completely random), the sample means will approximate the normal distribution.
+
+#### Assumptions Behind the Central Limit Theorem
+Before we dive into the implementation of the central limit theorem, it’s important to understand the assumptions behind this technique:
+
+* The data must follow the **randomization condition**. It must be sampled randomly
+* Samples should be **independent of each other**. One sample should not influence the other samples
+* **Sample size** should be not more than 10% of the population when sampling is done without replacement
+* The sample size should be sufficiently large. Now, how we will figure out how large this size should be? Well, it depends on the population. When the population is skewed or asymmetric, the sample size should be large. If the population is symmetric, then we can draw small samples as well
+In general, a **sample size of 30 is considered sufficient when the population is symmetric**.
+
+          The mean of the sample means is denoted as:
+
+                    µ X̄ = µ
+
+          where,
+
+          µ X̄ = Mean of the sample means
+          µ= Population mean
+          And, the standard deviation of the sample mean is denoted as:
+
+                    
+                    σ X̄ = σ/sqrt(n)
+
+          where,
+
+          σ X̄ = Standard deviation of the sample mean
+          σ = Population standard deviation
+          n = sample size
+
+
 # 9. Baye's Theorem (aka, Bayes Rule)
 Before understanding Baye's Theorem first we learn about **Conditional Probability**:
 
