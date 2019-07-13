@@ -674,10 +674,14 @@ A test of a statistical hypothesis, where the region of rejection is on only one
 
 **For example**, suppose the null hypothesis states that the mean is less than or equal to 10. The alternative hypothesis would be that the mean is greater than 10. The region of rejection would consist of a range of numbers located on the right side of sampling distribution; that is, a set of numbers greater than 10.
 
+Example :- a college has ≥ 4000 student or data science ≤ 80% org adopted.
+
 ##### (2) Two Tail Test
 A test of a statistical hypothesis, where the region of rejection is on both sides of the sampling distribution, is called a **two-tailed test**. 
 
 **For example**, suppose the null hypothesis states that the mean is equal to 10. The alternative hypothesis would be that the mean is less than 10 or greater than 10. The region of rejection would consist of a range of numbers located on both sides of sampling distribution; that is, the region of rejection would consist partly of numbers that were less than 10 and partly of numbers that were greater than 10.
+
+Example : a college != 4000 student or data science != 80% org adopted
 
 
 # 12. Statistical Testing
@@ -714,11 +718,9 @@ The Z Test is used for testing significance difference between two point estimat
 * Data should follow a normal distribution
 
 #### (2) Non-Parametric Tests:
+* Chi-Square Testing
 
 ### A/B Testing:
-
-
-
 
 
 ##### Problem 1: Two-Tailed Test
