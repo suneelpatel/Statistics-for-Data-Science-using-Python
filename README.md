@@ -24,8 +24,6 @@ Enable the business to make intelligent, fact-based decision.
 10. Statistical Inference
 11. Hypothesis Testing
 12. Testing the Data
-13. Data Clustering
-14. Regression Modelling
 
 
 ### What is statistics?
@@ -788,21 +786,3 @@ Analyze sample data. Using sample data, we calculate the standard deviation (σ)
 Since we have a one-tailed test, the P-value is the probability that the z-score is less than -1.75. We use the Normal Distribution Calculator to find P(z < -1.75) = 0.04. Thus, the P-value = 0.04.
 Interpret results. Since the P-value (0.04) is less than the significance level (0.05), we cannot accept the null hypothesis.
 Note: If you use this approach on an exam, you may also want to mention why this approach is appropriate. Specifically, the approach is appropriate because the sampling method was simple random sampling, the sample included at least 10 successes and 10 failures, and the population size was at least 10 times the sample size.
-
-
-# 13. Data Clustering
-
-#### Introduction to Data Clustering
-Cluster is a group of objects that belongs to the same class. In other words, similar objects are grouped in one cluster and dissimilar objects are grouped in another cluster.
-
-#### What is Clustering?
-
-Clustering is the process of making a group of abstract objects into classes of similar objects.
-
-#### Points to Remember
-* A cluster of data objects can be treated as one group.
-* While doing cluster analysis, we first partition the set of data into groups based on data similarity and then assign the labels to the groups.
-* The main advantage of clustering over classification is that, it is adaptable to changes and helps single out useful features that distinguish different groups.
-
-
-# 14. Regression Modelling
