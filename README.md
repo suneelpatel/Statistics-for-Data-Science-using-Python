@@ -680,7 +680,46 @@ A test of a statistical hypothesis, where the region of rejection is on both sid
 **For example**, suppose the null hypothesis states that the mean is equal to 10. The alternative hypothesis would be that the mean is less than 10 or greater than 10. The region of rejection would consist of a range of numbers located on both sides of sampling distribution; that is, the region of rejection would consist partly of numbers that were less than 10 and partly of numbers that were greater than 10.
 
 
-# 12. Testing the Data
+# 12. Statistical Testing
+
+Statistical Tests are intended to decide weather a hypothesis about distribution of one or more populations should be accepted or rejected.
+
+Their are two type of statistical tests:
+#### (1) Parametric Tests
+#### (2) Non Parametric Tests
+
+#### Why to use Statistical Testing?
+* To calculate the difference in the sample and population means
+* To find the difference in sample means
+* To test the significance of association between two variables
+* To calculate several population means
+* To test the difference in proportions between two independent populations
+* To test the difference in proporation between sample and population
+
+#### What are parameters?
+* Parameters are numbers which summarize the data for the entrire population, while statistics are numbers which summarize the data from a sample
+* Parametric Testing is used for quanititve data and continuous variables
+
+#### (1) Parametric Tests : A parametric test makes assumption regarding population parameters and distribution
+##### (a) Z Testing
+##### (b) Student T-Testing
+##### (c) P Testing
+##### (d) ANOVA Testing
+
+#### (a) Z Testing:
+The Z Test is used for testing significance difference between two point estimates
+##### Assumptions for Z Test
+* The sample must be randomly selected and data must be quantitative
+* Sample should be larger
+* Data should follow a normal distribution
+
+#### (2) Non-Parametric Tests:
+
+### A/B Testing:
+
+
+
+
 
 ##### Problem 1: Two-Tailed Test
 
@@ -748,6 +787,20 @@ Since we have a one-tailed test, the P-value is the probability that the z-score
 Interpret results. Since the P-value (0.04) is less than the significance level (0.05), we cannot accept the null hypothesis.
 Note: If you use this approach on an exam, you may also want to mention why this approach is appropriate. Specifically, the approach is appropriate because the sampling method was simple random sampling, the sample included at least 10 successes and 10 failures, and the population size was at least 10 times the sample size.
 
+
 # 13. Data Clustering
+
+#### Introduction to Data Clustering
+Cluster is a group of objects that belongs to the same class. In other words, similar objects are grouped in one cluster and dissimilar objects are grouped in another cluster.
+
+#### What is Clustering?
+
+Clustering is the process of making a group of abstract objects into classes of similar objects.
+
+#### Points to Remember
+* A cluster of data objects can be treated as one group.
+* While doing cluster analysis, we first partition the set of data into groups based on data similarity and then assign the labels to the groups.
+* The main advantage of clustering over classification is that, it is adaptable to changes and helps single out useful features that distinguish different groups.
+
 
 # 14. Regression Modelling
