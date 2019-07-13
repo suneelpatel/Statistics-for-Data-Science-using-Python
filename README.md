@@ -621,6 +621,44 @@ We need the sampling distribution of the statistic
 
 
 # 11. Hypothesis Testing
+### What is Hypothesis Testing?
+A statistical hypothesis is an assumption about a population parameter. This assumption may or may not be true. Hypothesis testing refers to the formal procedures used by statisticians to accept or reject statistical hypotheses.
+
+#### Statistical Hypotheses
+The best way to determine whether a statistical hypothesis is true would be to examine the entire population. Since that is often impractical, researchers typically examine a random sample from the population. If sample data are not consistent with the statistical hypothesis, the hypothesis is rejected.
+
+#### There are two types of statistical hypotheses.
+
+#### Null hypothesis. 
+The null hypothesis, denoted by Ho, is usually the hypothesis that sample observations result purely from chance.
+#### Alternative hypothesis. 
+The alternative hypothesis, denoted by H1 or Ha, is the hypothesis that sample observations are influenced by some non-random cause.
+
+### Hypothesis Tests
+Statisticians follow a formal process to determine whether to reject a null hypothesis, based on sample data. This process, called hypothesis testing, consists of four steps.
+
+* **State the hypotheses**: This involves stating the null and alternative hypotheses. The hypotheses are stated in such a way that they are mutually exclusive. That is, if one is true, the other must be false.
+* **Formulate an analysis plan**: The analysis plan describes how to use sample data to evaluate the null hypothesis. The evaluation often focuses around a single test statistic.
+* **Analyze sample data**: Find the value of the test statistic (mean score, proportion, t statistic, z-score, etc.) described in the analysis plan.
+* **Interpret results**: Apply the decision rule described in the analysis plan. If the value of the test statistic is unlikely, based on the null hypothesis, reject the null hypothesis.
+
+### Decision Errors
+Two types of errors can result from a hypothesis test.
+
+#### Type I error. 
+A Type I error occurs when the researcher rejects a null hypothesis when it is true. The probability of committing a Type I error is called the significance level. This probability is also called alpha, and is often denoted by α.
+
+#### Type II error. 
+A Type II error occurs when the researcher fails to reject a null hypothesis that is false. The probability of committing a Type II error is called Beta, and is often denoted by β. The probability of not committing a Type II error is called the Power of the test.
+
+### Decision Rules
+The analysis plan includes decision rules for rejecting the null hypothesis. In practice, statisticians describe these decision rules in two ways - with reference to a P-value or with reference to a region of acceptance.
+
+* **P-value**. The strength of evidence in support of a null hypothesis is measured by the P-value. Suppose the test statistic is equal to S. The P-value is the probability of observing a test statistic as extreme as S, assuming the null hypothesis is true. If the P-value is less than the significance level, we reject the null hypothesis.
+* **Region of acceptance**. The region of acceptance is a range of values. If the test statistic falls within the region of acceptance, the null hypothesis is not rejected. The region of acceptance is defined so that the chance of making a Type I error is equal to the significance level.
+* The set of values outside the region of acceptance is called the region of rejection. If the test statistic falls within the region of rejection, the null hypothesis is rejected. In such cases, we say that the hypothesis has been rejected at the α level of significance.
+
+
 
 # 12. Testing the Data
 
