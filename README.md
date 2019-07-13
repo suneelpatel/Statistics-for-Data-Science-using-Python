@@ -658,6 +658,26 @@ The analysis plan includes decision rules for rejecting the null hypothesis. In 
 * **Region of acceptance**. The region of acceptance is a range of values. If the test statistic falls within the region of acceptance, the null hypothesis is not rejected. The region of acceptance is defined so that the chance of making a Type I error is equal to the significance level.
 * The set of values outside the region of acceptance is called the region of rejection. If the test statistic falls within the region of rejection, the null hypothesis is rejected. In such cases, we say that the hypothesis has been rejected at the α level of significance.
 
+#### Significance Level 
+Significance level is the probablity of rejecting the null hypothesis when it is true, which is known as **Type I Error**. Denoted by alpha.
+
+#### Confidence Level 
+The Confidence level is just the compliment of Significance level which signifies how confident you are in your decision. Express as 1 - alpha.
+
+Confidence Level + Significance Level = 1 (always)
+
+#### Computing the Significance Level : Two ways the significance level can be calculated:
+
+##### (A) One Tail Test :
+One-Tailed and Two-Tailed Tests
+A test of a statistical hypothesis, where the region of rejection is on only one side of the sampling distribution, is called a **one-tailed test**. 
+
+**For example**, suppose the null hypothesis states that the mean is less than or equal to 10. The alternative hypothesis would be that the mean is greater than 10. The region of rejection would consist of a range of numbers located on the right side of sampling distribution; that is, a set of numbers greater than 10.
+
+##### (2) Two Tail Test
+A test of a statistical hypothesis, where the region of rejection is on both sides of the sampling distribution, is called a **two-tailed test**. 
+
+**For example**, suppose the null hypothesis states that the mean is equal to 10. The alternative hypothesis would be that the mean is less than 10 or greater than 10. The region of rejection would consist of a range of numbers located on both sides of sampling distribution; that is, the region of rejection would consist partly of numbers that were less than 10 and partly of numbers that were greater than 10.
 
 
 # 12. Testing the Data
