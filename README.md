@@ -37,11 +37,11 @@ To make more effective decision for the betterment of individual, society, busin
 
 Statistical analysis is implemented to manipulate, summarize, and investigate data, so that useful decision making information results are obtained.
 
-Two type of statistics:
+##### Two type of statistics:
 
-a)	Descriptive Statistics (used to describe the basic features of the data)
+1. Descriptive Statistics (used to describe the basic features of the data)
 
-b)	Inferential statistics (aims at learning characteristics of the population from a sample)
+2. Inferential statistics (aims at learning characteristics of the population from a sample)
 
 
 # 1. Data and its Types
