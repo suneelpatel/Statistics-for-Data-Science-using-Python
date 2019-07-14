@@ -682,7 +682,7 @@ A test of a statistical hypothesis, where the region of rejection is on both sid
 Example : a college != 4000 student or data science != 80% org adopted
 
 
-# 12. Statistical Testing
+# 12. Statistical Testing of Data
 
 Statistical Tests are intended to decide weather a hypothesis about distribution of one or more populations should be accepted or rejected.
 
